@@ -5,18 +5,22 @@ This is *purely for practice*. I do not recommend anyone use this over the origi
 
 
 ## TO-DO
-- [ ] Create base GUI
-- [ ] Convert scripts
-  - [ ] check_dependencies
-  - [ ] load_gameinfo
-  - [ ] clean_game_prefix
-  - [ ] download_external_resources
-  - [ ] install_external_resources
-  - [ ] install_nxm_handler
-  - [ ] configure_steam_wineprefix
-  - [ ] install_steam_redirector
-  - [ ] register_installation
-  - [ ] apply_workarounds
+- [ ] Create GUI
+  - [ ] Step 1 - Game Selection
+  - [ ] Step 2 - MO2 Plugins Selection
+  - [ ] Step 3 - Installation Directory
+  - [ ] Step 4 - Processing Screen
+  - [ ] Step 5 - Completion Screen
+- [ ] Implement dependency check
+- [ ] Implement game info json populating
+- [ ] Implement game prefix cleaning
+- [ ] Implement resource downloader
+- [ ] Implement resource installer
+- [ ] Implement NXM handler installation
+- [ ] Implement wineprefix configuration
+- [ ] Implement steam redirector
+- [ ] Implement installation registration
+- [ ] Implement game-specific workarounds
 
 ## Planned features
 - [ ] Optional install of frameworks (SKSE, F4SE, etc)
