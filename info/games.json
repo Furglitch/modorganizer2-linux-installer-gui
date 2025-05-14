@@ -1,0 +1,245 @@
+{
+    "Cyberpunk2077": {
+        "name": "Cyberpunk 2077",
+        "image": "cyberpunk-2077.png",
+        "executable": "REDprelauncher.exe",
+        "nexus-id": "cyberpunk2077",
+        "steam-id": 1091500,
+        "steam-protontricks": [
+            "xaudio2_7=native",
+            "d3dcompiler_47",
+            "vcrun2022",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Cyberpunk 2077"
+    },
+    "Enderal": {
+        "name": "Enderal",
+        "image": "enderal.png",
+        "executable": "Enderal Launcher.exe",
+        "nexus-id": "enderal",
+        "steam-id": 933480,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Enderal",
+        "scriptextender-url": "https://skse.silverlock.org/beta/skse_1_07_03.7z",
+        "scriptextender-files": ""
+    },
+    "EnderalSE": {
+        "name": "Enderal SE",
+        "image": "enderal-special-edition.png",
+        "executable": "Enderal Launcher.exe",
+        "nexus-id": "enderalspecialedition",
+        "steam-id": 976620,
+        "steam-protontricks": [
+            "xaudio2_7=native",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Enderal Special Edition",
+        "scriptextender-url": "https://skse.silverlock.org/beta/skse64_2_01_05.7z",
+        "scriptextender-files": ""
+    },
+    "Fallout3": {
+        "name": "Fallout 3",
+        "image": "fallout-3.png",
+        "executable": "FalloutLauncherSteam.exe",
+        "nexus-id": "fallout3",
+        "steam-id": 22300,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Fallout 3",
+        "scriptextender-url": "https://www.fose.silverlock.org/download/fose_v1_2_beta2.7z",
+        "scriptextender-files": ""
+    },
+    "Fallout3GOTY": {
+        "name": "Fallout 3 GOTY",
+        "image": "fallout-3-goty.png",
+        "executable": "FalloutLauncherSteam.exe",
+        "nexus-id": "fallout3",
+        "steam-id": 22300,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Fallout 3 goty",
+        "scriptextender-url": "https://www.fose.silverlock.org/download/fose_v1_2_beta2.7z",
+        "scriptextender-files": ""
+    },
+    "Fallout4": {
+        "name": "Fallout 4",
+        "image": "fallout-4.png",
+        "executable": "Fallout4Launcher.exe",
+        "nexus-id": "fallout4",
+        "steam-id": 377160,
+        "steam-protontricks": [
+            "xaudio2_7=native",
+            "grabfullscreen=y",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Fallout 4",
+        "scriptextender-url": "",
+        "scriptextender-files": ""
+    },
+    "Morrowind": {
+        "name": "Morrowind",
+        "image": "morrowind.png",
+        "executable": "Morrowind Launcher.exe",
+        "nexus-id": "morrowind",
+        "steam-id": 22320,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Morrowind",
+        "scriptextender-url": "https://github.com/MWSE/MWSE/releases/download/build-automatic/mwse.zip",
+        "scriptextender-files": ""
+    },
+    "NewVegas": {
+        "name": "Fallout New Vegas",
+        "image": "fallout-new-vegas.png",
+        "executable": "FalloutNVLauncher.exe",
+        "nexus-id": "newvegas",
+        "steam-id": 22380,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Fallout New Vegas",
+        "scriptextender-url": "https://github.com/xNVSE/NVSE/releases/download/6.3.5/nvse_6_3_5b.7z",
+        "scriptextender-files": ""
+    },
+    "Oblivion": {
+        "name": "Oblivion",
+        "image": "oblivion.png",
+        "executable": "OblivionLauncher.exe",
+        "nexus-id": "oblivion",
+        "steam-id": 22330,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Oblivion",
+        "scriptextender-url": "https://github.com/llde/xOBSE/releases/download/22.5/xOBSE22.5.zip",
+        "scriptextender-files": ""
+    },
+    "Skyrim": {
+        "name": "Skyrim",
+        "image": "skyrim.png",
+        "executable": "SkyrimLauncher.exe",
+        "nexus-id": "skyrim",
+        "steam-id": 72850,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "d3dx9",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Skyrim",
+        "scriptextender-url": "https://skse.silverlock.org/beta/skse_1_07_03.7z",
+        "scriptextender-files": [
+            "skse_1_07_03/Data",
+            "skse_1_07_03/skse_1_9_32.dll",
+            "skse_1_07_03/skse_loader.exe",
+            "skse_1_07_03/skse_steam_loader.dll"
+        ]
+    },
+    "SkyrimAE": {
+        "name": "Skyrim AE",
+        "image": "skyrim-anniversary-edition.png",
+        "executable": "SkyrimSELauncher.exe",
+        "nexus-id": "skyrimspecialedition",
+        "steam-id": 489830,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "vcrun2022",
+            "xaudio2_7=native",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Skyrim Special Edition",
+        "scriptextender-url": "https://skse.silverlock.org/beta/skse64_2_02_06.7z",
+        "scriptextender-files": [
+            "skse64_2_02_06/Data",
+            "skse64_2_02_06/skse64_1_6_1170.dll",
+            "skse64_2_02_06/skse64_loader.exe"
+        ]
+    },
+    "SkyrimSE": {
+        "name": "Skyrim SE",
+        "image": "skyrim-special-edition.png",
+        "executable": "SkyrimSELauncher.exe",
+        "nexus-id": "skyrimspecialedition",
+        "steam-id": 489830,
+        "steam-protontricks": [
+            "d3dcompiler_43",
+            "vcrun2022",
+            "xaudio2_7=native",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Skyrim Special Edition",
+        "scriptextender-url": "https://skse.silverlock.org/beta/skse64_2_00_20.7z",
+        "scriptextender-files": [
+            "skse64_2_00_20/Data",
+            "skse64_2_00_20/skse64_1_5_97.dll",
+            "skse64_2_00_20/skse64_loader.exe"
+        ]
+    },
+    "SkyrimVR": {
+        "name": "Skyrim VR",
+        "image": "skyrim-vr.png",
+        "executable": "SkyrimVR.exe",
+        "nexus-id": "skyrimspecialedition",
+        "steam-id": 611670,
+        "steam-protontricks": [
+            "xaudio2_7=native",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "SkyrimVR",
+        "scriptextender-url": "https://skse.silverlock.org/beta/sksevr_2_00_12.7z",
+        "scriptextender-files": [
+            "sksevr_2_00_12/Data",
+            "sksevr_2_00_12/sksevr_1_4_15.dll",
+            "sksevr_2_00_12/sksevr_loader.exe",
+            "sksevr_2_00_12/sksevr_steam_loader.dll"
+        ]
+    },
+    "Starfield": {
+        "name": "Starfield",
+        "image": "starfield.png",
+        "executable": "Starfield.exe",
+        "nexus-id": "starfield",
+        "steam-id": 1716740,
+        "steam-protontricks": [
+            "xaudio2_7=native",
+            "arial",
+            "fontsmooth=rgb"
+        ],
+        "steam-subdirectory": "Starfield",
+        "scriptextender-url": "https://sfse.silverlock.org/download/sfse_0_2_15.7z",
+        "scriptextender-files": [
+            "sfse_0_2_15/sfse_1_14_70.dll",
+            "sfse_0_2_15/sfse_loader.exe"
+        ]
+    }
+}

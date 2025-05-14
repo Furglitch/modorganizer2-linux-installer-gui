@@ -7,12 +7,13 @@ This is *purely for practice*. I do not recommend anyone use this over the origi
 ## TO-DO
 - [ ] Create GUI
   - [ ] Step 1 - Game Selection
+    - Current Progress : Visually Complete, Non-Functional
   - [ ] Step 2 - MO2 Plugins Selection
   - [ ] Step 3 - Installation Directory
   - [ ] Step 4 - Processing Screen
   - [ ] Step 5 - Completion Screen
+- [X] Implement game info json populating
 - [ ] Implement dependency check
-- [ ] Implement game info json populating
 - [ ] Implement game prefix cleaning
 - [ ] Implement resource downloader
 - [ ] Implement resource installer
